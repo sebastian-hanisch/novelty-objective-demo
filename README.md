@@ -1,5 +1,7 @@
 # Novelty plus Ziel – wie viel Ziel verträgt die Suche? (Streamlit-Demo)
 
+**[→ Demo live ausprobieren](https://sebastianhanisch-novelty-objective-demo.streamlit.app/)**
+
 ---
 
 Interaktive Demo zu **Novelty Search mit Ziel**. **Viertes Stück der Konzepte-Linie „Novelty Search und Quality-Diversity“** im Portfolio von
